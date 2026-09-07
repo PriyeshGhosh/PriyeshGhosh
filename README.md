@@ -72,11 +72,11 @@
 
 ### 📌 Featured Projects
 
-> _Replace these with your public portfolio repos once added — link + one-line description + tech stack each._
+>
 
-- **[Project Name](https://github.com/PriyeshGhosh/repo-name)** — One-line description of what it does and the problem it solves. `Next.js` `Socket.IO` `Redis`
-- **[Project Name](https://github.com/PriyeshGhosh/repo-name)** — One-line description of what it does and the problem it solves. `React` `WebRTC`
-- **[Project Name](https://github.com/PriyeshGhosh/repo-name)** — One-line description of what it does and the problem it solves. `Node.js` `OpenAI API`
+- **[Streamly]** — Netflix-style video streaming platform with integrated OTP login, Admin panel,Mech , Events , Channel management, and support for movie, video, and audio uploads and playback with NextJs. Keycloak · OIDC · Reduxs. `Next.js` `Socket.IO` `Redis`
+- **[ChatWeb]** — Real-time communication and messaging platform using Socket.IO Node.js . `Nextjs` `TypeScript` ,`Socket.IO` `Redis` `WebRTC`
+- **[MeetWeb]** — Video meeting and online collaboration platform using WebRTC , Keycloak with Recurrring Schedule Events . ` WebRTC` , `Keycloak` , `OpenAI API` `WebRTC`.
 
 ---
 
